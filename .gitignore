@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# also ignore my practice files
+movies_metadata.csv
+ratings.csv
+wikipedia.movies.json
+
+
 # C extensions
 *.so
 
