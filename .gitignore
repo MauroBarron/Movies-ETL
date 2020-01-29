@@ -3,11 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# also ignore my practice files
+# also ignore my practice files and other files
 movies_metadata.csv
 ratings.csv
 wikipedia.movies.json
-
+Hello.py
+config.py
 
 # C extensions
 *.so
